@@ -15,3 +15,7 @@
 <img src="https://user-images.githubusercontent.com/90026605/139610709-089b4145-6e08-4028-b465-fb68fb3e43cd.png">
 
 ✔✔83.82% !!
+
+아키텍처 : 
+
+<img src="https://user-images.githubusercontent.com/90026605/139614277-e33cab83-6ed8-4026-b77d-fda01795784a.png">
