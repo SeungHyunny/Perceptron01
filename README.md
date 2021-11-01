@@ -16,6 +16,6 @@
 
 ✔✔83.82% !!
 
-아키텍처 : 
+아키텍처😎 : 
 
 <img src="https://user-images.githubusercontent.com/90026605/139614277-e33cab83-6ed8-4026-b77d-fda01795784a.png">
